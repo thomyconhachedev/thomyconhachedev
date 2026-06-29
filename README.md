@@ -37,7 +37,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=thomyconhachedev&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
-
+<img src="https://github-profile-trophy.vercel.app/?username=thomyconhachedev&theme=dracula&no-frame=true&row=1&column=6"/>
 ---
 
 <div align="center">
