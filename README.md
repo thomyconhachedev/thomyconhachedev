@@ -28,7 +28,7 @@
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thomyconhachedev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomyconhachedev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomyconhachedev&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
