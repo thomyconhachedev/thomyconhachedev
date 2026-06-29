@@ -20,8 +20,8 @@
 - MySQL
 - Python (básico)
 
+---
+
 ## 📊 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thomyconhachedev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomyconhachedev&layout=donut&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=thomyconhachedev&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomyconhachedev&layout=donut&theme=tokyonight)
