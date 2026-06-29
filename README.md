@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola 👋, soy Thomas
 
-<!--
-**thomyconhachedev/thomyconhachedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer en formación  
+☕ Java | Spring Boot | MySQL  
+🎯 Enfocado en backend y microservicios  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- Estudiante de Ingeniería en Informática
+- Me gusta construir APIs
+- Me apasiona estar ampliando mis conocimientos
+- Busco mi primer trabajo como desarrollador backend
+
+---
+
+## 🛠️ Tecnologías
+- Java
+- Spring Boot
+- MySQL
+- Python (básico)
+
+## 📊 Estadísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=thomyconhachedev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomyconhachedev&layout=donut&theme=tokyonight)
