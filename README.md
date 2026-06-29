@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomyconhachedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thomyconhachedev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomyconhachedev&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thomyconhachedev&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thomyconhachedev&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
