@@ -37,6 +37,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=thomyconhachedev&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
+
 ---
 
 <div align="center">
