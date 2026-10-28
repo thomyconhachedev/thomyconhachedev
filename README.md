@@ -73,14 +73,6 @@ API REST para conectar **desarrolladores** con **empresas** tecnológicas: regis
 
 ---
 
-## 📊 Lenguajes principales
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomyconhachedev&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=6D28D9"/>
-
-</div>
-
 ---
 
 ## 📫 Contacto
