@@ -19,7 +19,7 @@ Actualmente estoy buscando mi **primer trabajo como desarrollador backend** para
 ```java
 public class Thomas {
     String role = "Backend Developer";
-    String[] stack = {"Java", "Spring Boot", "Spring Security", "JPA", "MySQL", "Docker", "AWS"};
+    String[] stack = {"Java", "Kotlin", "Spring Boot", "Spring Security", "JPA", "MySQL", "Docker", "AWS"};
     boolean lookingForJob = true;
 }
 ```
@@ -30,6 +30,7 @@ public class Thomas {
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
