@@ -4,7 +4,7 @@
 
 ### Backend Developer | Java · Spring Boot
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingeniería+en+Informática;Construyendo+APIs+y+microservicios;Buscando+mi+primer+rol+backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=680&lines=Estudiante+de+Ingeniería+en+Informática;Construyendo+APIs+y+microservicios;Buscando+mi+primer+rol+backend)](https://git.io/typing-svg)
 
 </div>
 
