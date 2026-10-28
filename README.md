@@ -73,14 +73,14 @@ API REST para conectar **desarrolladores** con **empresas** tecnológicas: regis
 
 ---
 
----
-
 ## 📫 Contacto
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomasmartinez-barahona/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thomyconhachedev)
+
+---
 
 *¡Si te interesa mi perfil o alguno de mis proyectos, no dudes en contactarme!* 😊
 
